@@ -1,6 +1,6 @@
-# NeetCode 150 Java Solutions
+# Interview Prep
 
-This repository contains Java implementations of the [NeetCode 150](https://neetcode.io/practice) problems, designed to help you prepare for technical interviews. Each problem is organized by topic and includes clean, well-documented code.
+This repository contains Java implementations of common leetcode problem. Each problem is organized by topic.
 
 ## Project Structure
 
