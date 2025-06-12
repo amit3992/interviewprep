@@ -1,4 +1,4 @@
-package com.interviewprep.graph;
+package com.interviewprep.graph.matrix;
 
 public class NumberOfIslands {
 
