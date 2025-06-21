@@ -4,8 +4,8 @@ import java.util.List;
 import java.util.ArrayList;
 
 public class Node {
-    int val;
-    List<Node> neighbors;
+    public int val;
+    public List<Node> neighbors;
 
     public Node() {
         val = 0;
